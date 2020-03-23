@@ -27,9 +27,12 @@ class About extends Component {
               </Nav>
             </Col>
             <Col sm={9}>
-              <Tab.Content>
+              <Tab.Content className="mt-3">
                 <Tab.Pane eventKey="first">
-                  <img src="https://cdn.dribbble.com/users/372375/screenshots/4990112/800.png" />
+                  <img
+                    style={({ width: "100%" }, { height: "450px" })}
+                    src="https://cdn.dribbble.com/users/372375/screenshots/4990112/800.png"
+                  />
                   <p>
                     A design is a plan or specification for the construction of
                     an object or system or for the implementation of an activity
@@ -38,7 +41,10 @@ class About extends Component {
                   </p>
                 </Tab.Pane>
                 <Tab.Pane eventKey="second">
-                  <img src="https://www.xfive.co/wp-content/uploads/2017/12/figma-prototype2-1675x1116.jpg" />
+                  <img
+                    style={({ width: "100%" }, { height: "420px" })}
+                    src="https://www.xfive.co/wp-content/uploads/2017/12/figma-prototype2-1675x1116.jpg"
+                  />
                   <p>
                     A team is a group of individuals (human or non-human)
                     working together to achieve their goal. As defined by
@@ -50,7 +56,10 @@ class About extends Component {
                   </p>
                 </Tab.Pane>
                 <Tab.Pane eventKey="third">
-                  <img src="https://i.ytimg.com/vi/jp4HtueUsFg/maxresdefault.jpg" />
+                  <img
+                    style={({ width: "100%" }, { height: "420px" })}
+                    src="https://i.ytimg.com/vi/jp4HtueUsFg/maxresdefault.jpg"
+                  />
                   <p>
                     "Mathematical programming" redirects here. For the
                     peer-reviewed journal, see Mathematical Programming.
@@ -60,7 +69,10 @@ class About extends Component {
                   </p>
                 </Tab.Pane>
                 <Tab.Pane eventKey="fourth">
-                  <img src="https://miro.medium.com/max/3840/1*263G2KNfujZyGPlyC4q-OQ.png" />
+                  <img
+                    style={({ width: "100%" }, { height: "420px" })}
+                    src="https://miro.medium.com/max/3840/1*263G2KNfujZyGPlyC4q-OQ.png"
+                  />
                   <p>
                     In computer programming, an application framework[1]
                     consists of a software framework used by software developers
@@ -69,7 +81,10 @@ class About extends Component {
                   </p>
                 </Tab.Pane>
                 <Tab.Pane eventKey="fifth">
-                  <img src="https://static.tildacdn.com/tild3833-3363-4233-b434-386532336631/01.png" />
+                  <img
+                    style={({ width: "80%" }, { height: "400px" })}
+                    src="https://static.tildacdn.com/tild3833-3363-4233-b434-386532336631/01.png"
+                  />
                   <p>
                     A library is a curated collection of sources of information
                     and similar resources, selected by experts and made

@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Carousel from "react-bootstrap/Carousel";
-import lightHouse from "../assets/light-house-on-hill-3363331.jpg";
-import photoOfTree from "../assets/photo-of-trees-in-forest-3801030.jpg";
+import lightHouse from "../assets/light-house-on-hill.jpg";
+import photoOfTree from "../assets/photo-of-trees-in-forest.jpg";
 import cityBuilding from "../assets/city-buildings-during-night-time-3787939.jpg";
 
 class CarouselBox extends Component {
@@ -9,7 +9,7 @@ class CarouselBox extends Component {
     return (
       <Carousel>
         <Carousel.Item>
-          <img className="d-block w-100" src={lightHouse} alt="Image" />
+          <img style={({ height: "800px" })} className="d-block w-100" src={lightHouse} alt="Image" />
           <Carousel.Caption>
             <h3>P.E.I. picture from East Cost</h3>
             <p>
@@ -37,7 +37,7 @@ class CarouselBox extends Component {
         </Carousel.Item>
 
         <Carousel.Item>
-          <img className="d-block w-100" src={photoOfTree} alt="Image" />
+          <img style={({ height: "60%" })} className="d-block w-100" src={photoOfTree} alt="Image" />
           <Carousel.Caption>
             <h3>P.E.I. forest</h3>
             <p>
