@@ -9,7 +9,12 @@ class CarouselBox extends Component {
     return (
       <Carousel>
         <Carousel.Item>
-          <img style={({ height: "800px" })} className="d-block w-100" src={lightHouse} alt="Image" />
+          <img
+            style={{ height: "200px" }}
+            className="d-block w-100"
+            src={lightHouse}
+            alt="Image"
+          />
           <Carousel.Caption>
             <h3>P.E.I. picture from East Cost</h3>
             <p>
@@ -37,7 +42,12 @@ class CarouselBox extends Component {
         </Carousel.Item>
 
         <Carousel.Item>
-          <img style={({ height: "60%" })} className="d-block w-100" src={photoOfTree} alt="Image" />
+          <img
+            style={{ height: "200px" }}
+            className="d-block w-100"
+            src={photoOfTree}
+            alt="Image"
+          />
           <Carousel.Caption>
             <h3>P.E.I. forest</h3>
             <p>
