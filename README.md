@@ -9,7 +9,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - (Cntr+r) npx create-react-app "my-project-name"
 - (Cntr+r) cd "my-project-name" <br />
 
-
+### Install Raect Router (if need):
+ - [Reacttraining.com/React-router/](https://Reacttraining.com/React-router/)- 
+ - Press the button 'Web'
+ - (Cntr+r) yarn add react-router <br />
 
 ## Available Scripts
 
