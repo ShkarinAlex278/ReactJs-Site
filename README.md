@@ -23,7 +23,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### - (Cntr+r) `yarn start`
+### - (Cntr+r) yarn start
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -36,6 +36,6 @@ You will also see any lint errors in the console.
 This project 'React-site' shows the skills of working with the React library.
 Each project page contains different components that show React JS skills.
 
-Develop by: Alex Shkarin
+`Develop by: Alex Shkarin
 
-Date: Mar.2020
+Date: Mar.2020`
