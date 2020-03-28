@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Step for build a project.
- Install RaectJS:
+Install RaectJS:
  - Reactjs.org
   - Get Start / Create a New React App / Recommended Toolehains / Create React App.
 
