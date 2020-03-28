@@ -36,6 +36,6 @@ You will also see any lint errors in the console.
 This project 'React-site' shows the skills of working with the React library.
 Each project page contains different components that show React JS skills.
 
-`Develop by: Alex Shkarin
+`Develop by: Alex Shkarin`
 
-Date: Mar.2020`
+`Date: Mar.2020`
