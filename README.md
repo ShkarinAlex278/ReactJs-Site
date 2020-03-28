@@ -3,8 +3,6 @@
  - [Reactjs.org](https://Reactjs.org)
   - Get Start / Create a New React App / Recommended Toolehains / Create React App. <br />
   
-  # 123
-
 ### Create folders of project:
 - (Cntr+r) npx create-react-app "my-project-name"
 - (Cntr+r) cd "my-project-name" <br />
