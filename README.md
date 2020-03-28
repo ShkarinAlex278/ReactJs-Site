@@ -3,10 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Step for build a project.
  Install RaectJS:
  - Reactjs.org
-  - Get Start
-    -Create a New React App
-      -Recommended Toolehains
-        -Create React App.
+  - Get Start / Create a New React App / Recommended Toolehains / Create React App.
 
 ## Available Scripts
 
